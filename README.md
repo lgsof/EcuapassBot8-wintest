@@ -52,6 +52,6 @@ EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación 
 ---
 
 ## LOG
-Jan/28 v8.0.0: New version that will have reduce size, simple installer, and payment buttons.
+Jan/28 v8.0.1: New version that will have reduce size, simple installer, and payment buttons.
 
 
