@@ -52,10 +52,6 @@ EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación 
 ---
 
 ## LOG
-Jan/28 v8.0.3: Removed launcher. Continue with bat as launcher
-
-Jan/28 v8.0.2: Create EcuapassBot launcher. Modified starting .bat
-Jan/25 v8.0.1: Updated bats for win.
-Jan/25 v8.0.0: New version that will have reduce size, simple installer, and payment buttons.
+Jan/28 v8.0.0: New version that will have reduce size, simple installer, and payment buttons.
 
 

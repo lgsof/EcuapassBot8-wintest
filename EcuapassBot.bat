@@ -16,8 +16,8 @@ if %ERRORLEVEL% EQU 0 (
 )
 
 echo ==== Quitando previos App y GUI ==================
-taskkill /IM "ecuapass_app.exe" /F 2>nul 
-taskkill /FI "WINDOWTITLE eq EcuapassBot" /F
+taskkill /IM "EcuapassBotApp.exe" /F 2>nul 
+::taskkill /FI "WINDOWTITLE eq EcuapassBot" /F
 
 echo ==== Obteniendo Ultimo release en GitHub ==================
 for /f %%A in ('
@@ -70,6 +70,7 @@ echo ====== Archivos que se actualizan ==============================
 git --no-pager diff --name-status origin/main
 echo ====== Aplicando actualizaciones ===============================
 git reset --hard origin/main
+
 if %ERRORLEVEL% EQU 1 (
     echo ADVERTENCIA: Fallo en git reset. Continuando con los archivos actuales.
 )
