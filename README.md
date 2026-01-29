@@ -52,8 +52,8 @@ EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación 
 ---
 
 ## LOG
-Jan/29 v8.0.2: Fixed perms
-
+Jan/29 v8.0.3: GUI Title.
+Jan/29 v8.0.2: Fixed perms. 
 Jan/28 v8.0.1: Added .gitattributes. Fixed GUI to front.
 Jan/28 v8.0.0: New version that will have reduce size, simple installer, and payment buttons.
 
