@@ -52,6 +52,19 @@ EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación 
 ---
 
 ## LOG
+Feb/20 v8.0.11: Testing on windows new Install and DB.
+
+Feb/19 v8.0.10: Testing spdb, changing old ggsh for spdb
+Feb/19 v8.0.9: Before refactoring ggsh to spdb
+
+Feb/12 v8.0.9: Before refactoring ggsh to spdb
+
+Feb/07 v8.0.7: Installer simplified. No tested on Windows
+
+Feb/06 v8.0.6: Improving installer interaction. Reducing to one data empresa dialog.
+Jan/29 v8.0.5: Improving installer
+
+Jan/29 v8.0.4: Small file/dirs prunning.
 Jan/29 v8.0.3: GUI Title.
 Jan/29 v8.0.2: Fixed perms. 
 Jan/28 v8.0.1: Added .gitattributes. Fixed GUI to front.
