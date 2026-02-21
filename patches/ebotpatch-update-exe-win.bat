@@ -9,7 +9,7 @@ REM ===============================================================
 REM Paths
 set "BASE_DIR=%~dp0"
 set "LOG_FILE=%BASE_DIR%patches.log"
-set "ORIGINAL_EXE=%BASE_DIR%EcuapassBotApp_original_Ene28.exe"
+set "ORIGINAL_EXE=%BASE_DIR%EcuapassBotApp_ORIGINAL.exe"
 set "CURRENT_EXE=..\ecuapp\EcuapassBotApp.exe"
 
 cd /d "%BASE_DIR%"
