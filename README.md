@@ -2,7 +2,7 @@
 
 # 🧾 EcuapassBot – Automatización inteligente de documentos para ECUAPASS
 
-**EcuapassBot** es una aplicación de escritorio diseñada para **automatizar la creación y transmisión de documentos aduaneros** exigidos por el sistema **ECUAPASS** del Ecuador, especialmente en el contexto del **transporte terrestre internacional de carga**.
+**EcuapassBot** es una aplicación desarrollada por la empresa **FronterIA Software** y diseñada para **automatizar la creación y transmisión de documentos aduaneros** exigidos por el sistema **ECUAPASS** del Ecuador, especialmente en el contexto del **transporte terrestre internacional de carga**.
 
 Está orientada a **empresas transportistas**, **agentes de aduana** y **operadores logísticos**, y permite generar y transmitir automáticamente documentos como:
 
@@ -33,8 +33,8 @@ EcuapassBot es una solución híbrida y modular compuesta por:
 
 ## 🛠️ Tecnologías utilizadas
 
-- `Java 17+` (Swing)
-- `Python 3.10+` + `PyInstaller`
+- `Java 21+` (Swing)
+- `Python 3.12+` + `PyInstaller`
 - `pdfminer`, `pytesseract` (OCR y parsing de texto)
 - `xdelta3` (parcheo binario)
 - `Git` (para actualizaciones)
@@ -44,30 +44,19 @@ EcuapassBot es una solución híbrida y modular compuesta por:
 
 ## 💼 Licenciamiento
 
-EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación en hasta **dos dispositivos**.
+EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación en hasta **tres dispositivos**.
 
 🔗 Más información comercial:  
-👉 [https://softwareinteligente.github.io/productos/ecuapass-bot/](https://softwareinteligente.github.io/productos/ecuapass-bot/)
+👉 [**Sitio Empresa Fronteria:** https://www.fronteria.co/](https://www.fronteria.co/)
+
+👉 [**Sitio Producto EcuapassBot:** https://www.fronteria.co/productos/ecuapassbot/](https://www.fronteria.co/productos/ecuapassbot/)
+
+👉 [**Sitio Producto EcuapassDocs:** https://www.fronteria.co/productos/ecuapassdocs/](https://www.fronteria.co/productos/ecuapassdocs/)
 
 ---
 
 ## LOG
-Feb/20 v8.0.11: Testing on windows new Install and DB.
-
-Feb/19 v8.0.10: Testing spdb, changing old ggsh for spdb
-Feb/19 v8.0.9: Before refactoring ggsh to spdb
-
-Feb/12 v8.0.9: Before refactoring ggsh to spdb
-
-Feb/07 v8.0.7: Installer simplified. No tested on Windows
-
-Feb/06 v8.0.6: Improving installer interaction. Reducing to one data empresa dialog.
-Jan/29 v8.0.5: Improving installer
-
-Jan/29 v8.0.4: Small file/dirs prunning.
-Jan/29 v8.0.3: GUI Title.
-Jan/29 v8.0.2: Fixed perms. 
-Jan/28 v8.0.1: Added .gitattributes. Fixed GUI to front.
-Jan/28 v8.0.0: New version that will have reduce size, simple installer, and payment buttons.
-
+Jul/03 v8.0.2: Fixed "Actualizar" button.
+Feb/23 v8.0.1: Prefix 8 for dir and icon.
+Feb/22 v8.0.0: Uploaded to releases. Added to web page. Tested Simple Installer. Using cloud DB. 
 
