@@ -56,8 +56,9 @@ EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación 
 ---
 
 ## LOG
-Jul/04 v8.0.2.1: Fixing win behing
+Jul/08 v8.0.4: Fixed Web doc load.
 
+Jul/04 v8.0.3: Fixing win behind
 Jul/03 v8.0.2: Fixed "Actualizar" button.
 Feb/23 v8.0.1: Prefix 8 for dir and icon.
 Feb/22 v8.0.0: Uploaded to releases. Added to web page. Tested Simple Installer. Using cloud DB. 

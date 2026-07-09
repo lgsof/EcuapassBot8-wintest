@@ -1,6 +1,6 @@
 # 🧾 EcuapassBot – Intelligent Automation of Customs Documents for ECUAPASS
 
-**EcuapassBot** is a desktop application designed to **automate the creation and transmission of customs documents** required by Ecuador’s **ECUAPASS** system, particularly for **international land freight transport**.
+**EcuapassBot** is an application created by the company **FronterIA Software** and designed to **automate the creation and transmission of customs documents** required by Ecuador’s **ECUAPASS** system, particularly for **international land freight transport**.
 
 It is aimed at **transport companies**, **customs agents**, and **logistics operators**, and enables the automatic generation and submission of key documents such as:
 
@@ -31,8 +31,8 @@ EcuapassBot is a hybrid, modular solution built with the following components:
 
 ## 🛠️ Technologies Used
 
-- `Java 17+` (Swing GUI)
-- `Python 3.10+` + `PyInstaller`
+- `Java 21+` (Swing GUI)
+- `Python 3.12+` + `PyInstaller`
 - `pdfminer`, `pytesseract` (OCR and text parsing)
 - `xdelta3` (binary patching)
 - `Git` (for updates)
@@ -45,7 +45,10 @@ EcuapassBot is a hybrid, modular solution built with the following components:
 EcuapassBot is licensed per country and company. Each license allows installation on up to **two devices**.
 
 🔗 Commercial information:  
-👉 [https://softwareinteligente.github.io/productos/ecuapass-bot/](https://softwareinteligente.github.io/productos/ecuapass-bot/)
+👉 [**Sitio Empresa Fronteria:** https://www.fronteria.co/](https://www.fronteria.co/)
 
+👉 [**Sitio Producto EcuapassBot:** https://www.fronteria.co/productos/ecuapassbot/](https://www.fronteria.co/productos/ecuapassbot/)
+
+👉 [**Sitio Producto EcuapassDocs:** https://www.fronteria.co/productos/ecuapassdocs/](https://www.fronteria.co/productos/ecuapassdocs/)
 ---
 
