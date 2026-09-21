@@ -56,6 +56,9 @@ EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación 
 ---
 
 ## LOG
+Sep/27 v8.0.9: Added Ecudocs connection. Restore bsc prms chk
+
+Jul/10 v8.0.6: Improved Empresa Search Docs access by Web (Cdbni) 
 Jul/10 v8.0.5: Improved Docs access by Web (Cdbni) 
 
 Jul/08 v8.0.4: Fixed Web doc load.
