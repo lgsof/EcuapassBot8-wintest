@@ -39,6 +39,19 @@
         "x": 300,
         "y": 88
 	},
+
+    "txt0c": {
+        "ecudocsField": "00_DocType",
+        "appField": "txt0c",
+        "value": ""
+    },
+
+    "txt0b": {
+        "ecudocsField": "00_DocPermiso",
+        "appField": "txt0b",
+        "value": ""
+    },
+
     "txt0a": {
         "align": "left", 
         "class": "input_numero", 

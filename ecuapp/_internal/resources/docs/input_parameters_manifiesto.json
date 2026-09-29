@@ -20,6 +20,7 @@
         "x": 400,
         "y": 88
 	},
+
     "numero": {
         "align": "left",
         "class": "input_numero",
