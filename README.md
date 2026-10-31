@@ -1,6 +1,6 @@
 📄 [English version](README.en.md)
 
-# 🧾 EcuapassBot – Automatización inteligente de documentos para ECUAPASS
+# 🧾 EcuapassBot v8 – Automatización inteligente de documentos para ECUAPASS
 
 **EcuapassBot** es una aplicación desarrollada por la empresa **FronterIA Software** y diseñada para **automatizar la creación y transmisión de documentos aduaneros** exigidos por el sistema **ECUAPASS** del Ecuador, especialmente en el contexto del **transporte terrestre internacional de carga**.
 
@@ -56,17 +56,19 @@ EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación 
 ---
 
 ## LOG
+Oct/30/2026 v8.2.1: Added Input in File Chooser
+
+Oct/30/2026 v8.2.0: Added quota for empresa and installation (GRATIS plan, TCMI case). BD, backend, frontend.
+
+Oct/15 v8.1.5: TCMI Fixes 02: CHASIS Extraction
+Oct/15 v8.1.4: TCMI Fixes: PO Enabled
+Sep/29 v8.1.3: New Installer v8.1.3 (TCMI support)
 Sep/28 v8.1.2: Added TCMI support using API
-
 Sep/26 v8.1.1: Starting to add TCMI
-
 Sep/26 v8.1.0: Added API processing (gui, back).
-
 Sep/25 v8.0.9: Added Ecudocs connection. Restore bsc prms chk
-
 Jul/10 v8.0.6: Improved Empresa Search Docs access by Web (Cdbni) 
 Jul/10 v8.0.5: Improved Docs access by Web (Cdbni) 
-
 Jul/08 v8.0.4: Fixed Web doc load.
 Jul/04 v8.0.3: Fixing win behind
 Jul/03 v8.0.2: Fixed "Actualizar" button.
