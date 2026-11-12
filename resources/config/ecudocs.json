@@ -1,0 +1,6 @@
+{
+  "base_url": "https://fronteria.ecudocs.fronteria.co/api/v1/",
+  "api_key": "edk_PpXRX81LgJ6cgEW7jk2HIZlZ5U-cLx1OhPmXovkRnF0",
+  "timeout_seconds": 30,
+  "max_retries": 2
+}
