@@ -56,6 +56,8 @@ EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación 
 ---
 
 ## LOG
+Nov/12/2026 v8.3.6: Fixed getTipoProc. Improved getInitialEcudocs. Improved getCiudadPais.
+
 Nov/12/2026 v8.3.5: Reverting base class for TSP info (CPI info)
 
 Nov/12/2026 v8.3.3: Tmp branch. getPaisFromDocumento for CDBN. ECUDOCS is a own document type (Coords, info)
