@@ -44,20 +44,6 @@
         "aldiaField": "caprntcrid"
     },
 
-    "pais": {
-        "value": "",
-        "class": "input_general",
-        "ecudocsField": "00a_Pais",
-        "codebinField": "",
-        "appField": "txt0a",
-        "aldiaField": "docField_pais",
-        "restrictions": [
-            "hidden",
-            "readonly",
-            "color=red"
-        ]
-    },
-
     "txt0c": {
         "ecudocsField": "00_DocType",
         "appField": "txt0c",
