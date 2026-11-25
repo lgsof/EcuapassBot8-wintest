@@ -56,6 +56,8 @@ EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación 
 ---
 
 ## LOG
+Nov/26/2026 v8.3.12: Added AGCMX+TST support + rwrt sttngs
+
 Nov/26/2026 v8.3.11: Added AGCMX+TST support
 
 Nov/20/2026 v8.3.10: Updated names for BTRSTO Info clases.
