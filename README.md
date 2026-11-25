@@ -56,8 +56,9 @@ EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación 
 ---
 
 ## LOG
-Nov/20/2026 v8.3.10: Updated names for BTRSTO Info clases.
+Nov/26/2026 v8.3.11: Added AGCMX+TST support
 
+Nov/20/2026 v8.3.10: Updated names for BTRSTO Info clases.
 Nov/20/2026 v8.3.9: Moved ecupdf to API dir (repo EcuapassBot-api)
 
 Nov/20/2026 v8.3.8: Added CDBNI LETTER
